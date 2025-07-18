@@ -8,7 +8,7 @@ export default function Blog() {
   const teacherBlog = [
     {
       title: "Class 11 Commerce - Concept Clarity",
-      desc: "Khushi Shah ma'am simplifies Accounts, Business Studies, Economics, and other Class 11 subjects as per syllabus, focusing on real-life case studies and practical clarity.",
+      desc: "Khushi Shah ma&apos;am simplifies Accounts, Business Studies, Economics, and other Class 11 subjects as per syllabus, focusing on real-life case studies and practical clarity.",
       img: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?auto=format&fit=crop&w=800&q=80",
       category: "Class 11 - Commerce (All Subjects)",
     },
@@ -24,7 +24,7 @@ export default function Blog() {
     <section className="bg-[#fdf4f9] text-[#2d1b4e] py-20 px-6">
       <div className="max-w-6xl mx-auto text-center">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
-          Our Educator's Corner
+          Our Educator&apos;s Corner
         </h2>
 
         <p className="text-md text-[#6b3fa0] font-medium mb-4">

@@ -4,13 +4,10 @@ import Courses from "@/components/Courses";
 import CohortHero from "@/components/Hero";
 import NotesPage from "@/components/Notes";
 import Tutorial from "@/components/Tutorial";
-import navbar from "@/components/navbar"; // Make sure Navbar is imported
 
 export default function Home() {
   return (
     <>
-      <navbar />
-
       <div id="home" className="scroll-mt-24">
         <CohortHero />
       </div>
@@ -37,4 +34,3 @@ export default function Home() {
     </>
   );
 }
-
